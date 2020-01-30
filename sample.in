@@ -1,0 +1,25 @@
+./blockchain
+
+./blockchain 10 100 .9 .05 .1 1543782199
+
+./blockchain 10 100 .9 .05 .1 
+
+./blockchain 100 100 .9 .05 .1 
+
+./blockchain 10 1000 .9 .05 .1 
+
+./blockchain 10 100 1.9 .05 .1 
+
+./blockchain 10 100 -.9 .05 .1 
+
+./blockchain 10 100 .9 1.05 .1 
+
+./blockchain 10 100 .9 .05 .4
+
+./blockchain 10 100 .9 .05 1.4
+
+./blockchain 10 100 .9 .5 0.4
+
+./blockchain 100 1000 .9 .05 .9
+
+./blockchain 2 3 .9 .05 .4

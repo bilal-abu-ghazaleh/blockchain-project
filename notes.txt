@@ -1,0 +1,19 @@
+The submitted files include the tools.cpp and tools.hpp required and given by the professor as well as the tools.o object file created by make.
+
+The submitted files also include main.cpp and its object file main.o
+The submitted files also includes the exectuable blockcain, that may be run and produces the desired output. 
+
+It contains Simulator.cpp and Simulator.hpp and .o, the Simulator class implementation and header file.
+
+It also contains Population.cpp and .hpp  and .o which contain the class and functions that create the populationa and the appripriate error checking. As well as Agent.cpp and .hpp, the header file for Agent virtual class and the fickle and crowd classes.
+
+It contains Blockchain.cpp and Blockchain.hpp and .o, the Blockchain class implementation and header file.
+
+It also contains Block.hpp which contain the class and functions that create the block and the appripriate error checking. As well as SPtr and Serial.cpp and .hpp, the header file for SPtr and Serial given but slightly modified.
+
+It also contains sample.in and sample.out that shows both sample input and ouput for correct inputs (upper and lower case), incorrect input and the program running correctly. The sample outputs and inputs requested show the correct execution of the program.
+It uses seed produced by time(0) on the next run to verify the correct output twice.
+This program assumes that input to consensus will be of the correct type.
+
+Also included is the Makefile, inspired by the Makefile used in lecture but modified for this particular project.
+And obviously the submitted files contains notes.txt, this file which describes the submitted files.
